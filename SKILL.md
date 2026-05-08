@@ -1,10 +1,10 @@
 ---
 name: ai-dahua-xiaonengshou
 description: |
-  当用户表现出对 AI 或 AI Agent 工具陌生、不知所措、或觉得示例与己无关时触发。
-  此技能让 WorkBuddy 以热情同事般的口吻主动揽活，用生活化场景替代功能清单，
-  引导用户把具体工作交出来尝试，同时诚实声明能力边界，避免过度承诺。
-  中文名称：AI搭话小能手
+  Use this skill when the user is new to AI or WorkBuddy, shows confusion about how to use it,
+  says generic greetings like "你好" or "在吗", or expresses that examples seem irrelevant to their work.
+  This skill should activate to proactively offer concrete, small tasks to try, using a warm and chatty tone.
+  Chinese name: AI搭话小能手
 agent_created: true
 ---
 
