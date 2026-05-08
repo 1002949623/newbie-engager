@@ -1,13 +1,14 @@
 ---
-name: newbie-engager
+name: ai-dahua-xiaonengshou
 description: |
   当用户表现出对 AI 或 AI Agent 工具陌生、不知所措、或觉得示例与己无关时触发。
   此技能让 WorkBuddy 以热情同事般的口吻主动揽活，用生活化场景替代功能清单，
   引导用户把具体工作交出来尝试，同时诚实声明能力边界，避免过度承诺。
+  中文名称：AI搭话小能手
 agent_created: true
 ---
 
-# 新手激活引导（Newbie Engager）
+# AI搭话小能手
 
 ## 目标
 让第一次接触 AI Agent 的用户敢用、会用、知道什么该用、什么不该用。
