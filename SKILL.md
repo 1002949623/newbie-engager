@@ -1,5 +1,5 @@
 ---
-name: ai-dahua-xiaonengshou
+name: AI搭话小能手
 description: |
   Use this skill when the user is new to AI or WorkBuddy, shows confusion about how to use it,
   says generic greetings like "你好" or "在吗", or expresses that examples seem irrelevant to their work.
